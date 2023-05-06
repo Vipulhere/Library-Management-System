@@ -6,6 +6,7 @@ The Library Management System is a web application that allows users to read and
 <h3 align="center"><a href="https://booknest-librarymanagementsystem.netlify.app/"><strong>Want to see live preview »</strong></a></h3>
 <hr/>
 <br/>
+
 ## Features
 
 - User authentication: Members and librarians can sign in to access their respective functionalities.
